@@ -1,0 +1,33 @@
+/* простые селекторы */
+div{
+    color: black;
+}
+.block{
+    color: rgb(0, 255, 255);
+}
+#id-block{
+    color: brown;
+}
+[data-example] {
+    color: red;
+}
+[data-example="value2"] {
+    color: blue;
+}
+/* комбинация селекторов */
+.block3, .block4, .block5 {
+    color: yellow;
+}
+
+/* контекстные селекторы */
+
+div.blue-block {
+    color: green;
+}
+div .orange {
+    color: orange;
+}
+
+.perent>.child{
+    color: pink;
+}
