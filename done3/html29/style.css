@@ -1,0 +1,24 @@
+body {
+    font-size: 40px;
+}
+
+/* ===================================================== */
+
+div {
+    min-width: 400px;
+    max-width: 700px;
+    min-hight: 500px;
+    max-height: 800px;
+}
+
+.inline {
+    width: 400px;
+    height: 700px;
+}
+
+.img {
+    min-height: 700px;
+    max-height: 1000px;
+    min-width: 700px;
+max-width: 1000px;
+}

@@ -1,0 +1,35 @@
+/* 
+.some-text{
+    font-family: 'Montserrat' 'Arial', sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    font-weight: 700;
+}
+*/
+.open-sans{
+    font-family: 'Open Sans' Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    font-style :italic;
+}
+.line{
+    font-family: 'Open Sans' Arial, sans-serif;
+    text-decoration: line-through;
+    text-align: left;
+    font-weight: 500;
+}
+.caps-lock{
+    text-transform: uppercase;
+    text-align: center;
+}
+.gash{
+    color: rgb(100, 34, 161);
+    text-decoration: solid;
+    word-spacing: 30px;
+}
+.letter{
+    letter-spacing: 3px;
+    text-decoration: double ;
+}
