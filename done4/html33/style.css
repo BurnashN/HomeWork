@@ -1,0 +1,32 @@
+body {
+    font-size: 40px;
+}
+
+/* ===================================================== */
+
+*{
+    box-sizing: border-box;
+}
+.block{
+    width: 500px;
+    text-align: center;
+    margin-left: 200px;
+    background: rgb(243, 4, 4);
+    box-shadow: -10px 10px 20px 10px #000, 10px 40px 20px 10px #01610e ; 
+    border-radius: 30px;
+}
+.block-2{
+    background: burlywood;
+
+}
+
+
+
+.inline {
+    box-shadow: 20px 20px 20px #000;
+}
+
+
+.img{
+    box-shadow: 20px 20px 20px #000;
+}

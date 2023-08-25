@@ -1,0 +1,32 @@
+body {
+    font-size: 40px;
+}
+
+/* ===================================================== */
+
+/* *{
+    box-sizing: border-box;
+} */
+.block {
+    background-color: aqua;
+    opacity: 0;
+}
+
+.block-2 {
+    background: burlywood;
+    width: 400px;
+    height: 200px;
+    overflow: auto;
+    visibility: visible;
+
+}
+
+
+
+.inline {
+    opacity: .5;
+}
+
+.img {
+    opacity: .3;
+}
