@@ -1,0 +1,10 @@
+.red {
+    color: red;
+}
+.move{
+    transform: translateX(10vw);
+}
+.text{
+transition: transform .5s;
+display: inline-block;
+}
